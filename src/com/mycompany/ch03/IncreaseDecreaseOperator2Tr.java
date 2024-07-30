@@ -67,7 +67,8 @@ public class IncreaseDecreaseOperator2Tr { //증감연산자
 		                          // 2. `j++`는 현재의 'j' 값을 반환하고, 그 후 'j'를 1 증가시킵니다. ('j'는 10에서 11로 증가)
 		                          // 3. 따라서, 'z'는 9 (증가된 i의 값) + 10 (현재 j의 값) = 19가 됩니다.
 
-		        System.out.println(z); // 'z'의 값 19를 출력
+		        System.out.println(z); // 'z'의 값 19를 출력.
+		        System.out.println( z + z);
 		    }
 		}
 
