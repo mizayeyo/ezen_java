@@ -1,6 +1,6 @@
 package com.mycompany.ch04;
 
-public class While {
+public class For2 {
 
 	public static void main(String[] args) {
 		
